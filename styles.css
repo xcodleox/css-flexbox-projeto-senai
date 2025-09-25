@@ -16,6 +16,15 @@
  *
  */
 
+ @import url(./styles/header.css);
+ @import url(./styles/banner.css);
+ @import url(./styles/cartaz.css);
+ @import url(./styles/filme-lista.css);
+ @import url(./styles/combo.css);
+ @import url(./styles/newsletter.css);
+ @import url(./styles/separador.css);
+ @import url(./styles/footer.css);
+
 :root {
     --cor-texto: #1e1e1e;
     --cor-texto-hover: #252530;
